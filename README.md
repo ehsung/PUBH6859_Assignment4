@@ -2,9 +2,9 @@
 
 ## Problem 1 Locations:
 * Python Notebook:
-** https://colab.research.google.com/drive/1kY2yvWehpnQc_9d6YJveHXtOOBDspb9L?usp=sharing
+* * https://colab.research.google.com/drive/1kY2yvWehpnQc_9d6YJveHXtOOBDspb9L?usp=sharing
 * Google Drive Data:
-** https://drive.google.com/file/d/1-ThgtXtpFlHyxIBgLn6MWWAhWZ5TRjYo/view?usp=drive_link 
+* * https://drive.google.com/file/d/1-ThgtXtpFlHyxIBgLn6MWWAhWZ5TRjYo/view?usp=drive_link 
 
 Problem 1:
 1. Go to PubMed_Visualization.ipynb github link.
