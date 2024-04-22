@@ -28,10 +28,11 @@
   * Mount my google drive
   * Change: drive_path to be: drive_path = ‘/content/drive/MyDrive/PUBH6859_Assignment4/'
   * Notebook will create png and pdf graphics of the charts
-  * 
+
+![image](https://github.com/ehsung/PUBH6859_Assignment4/blob/main/supp1.png)
 
 ## Problem 2:
 * pubh6859_assignment4_boto3_create.py
 * pubh6859_assignment4_boto3_delete.py
 * Confirmed the scripts works using the AWS site to see it being made and deleted
-![image](https://github.com/ehsung/PUBH6859_Assignment4/assets/11777528/c06e71b3-500a-4ba4-9f8f-ddf28eb30d7c)
+
