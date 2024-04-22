@@ -8,7 +8,7 @@
 
 Problem 1:
 1. Go to PubMed_Visualization.ipynb github link.
-a. https://github.com/omicsEye/pubSight/blob/main/notebook/PubMed_Visualization.ipynb 
+ a. https://github.com/omicsEye/pubSight/blob/main/notebook/PubMed_Visualization.ipynb 
 2. Can fork over the git repo to open and modify, but I instead downloaded the notebook and uploaded it into my own personal google colab account.
 a.	Renamed it as: PubMed_Visualization__EHS_Modified.ipynb
 4.	Go to: https://pubmed.ncbi.nlm.nih.gov/ 
